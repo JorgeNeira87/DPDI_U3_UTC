@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTC View</string>
+    <string name="browse_title">Buscar</string>
+    <string name="watch_trailer">Trailer</string>
+    <string name="favorite">Favoritos</string>
+    <string name="search_hint">Buscar...</string>
+
+</resources>

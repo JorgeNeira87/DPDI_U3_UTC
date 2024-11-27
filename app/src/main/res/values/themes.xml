@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Theme.MovieTrailersTv" parent="@style/Theme.Leanback" >
+        <item name="android:colorPrimary">#051035</item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+    </style>
+    <color name="search_bar_color">#FF0000</color>
+</resources>
